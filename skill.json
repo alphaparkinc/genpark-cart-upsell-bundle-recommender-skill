@@ -1,0 +1,12 @@
+{
+  "name": "genpark-cart-upsell-bundle-recommender-skill",
+  "version": "1.0.0",
+  "description": "Autonomous e-commerce cart bundle recommender calculating affinity lift, margin elasticity, and optimal discount tiers",
+  "author": "GenPark AI Engineering",
+  "license": "MIT",
+  "keywords": ["cart-upsell", "bundle-recommendation", "margin-elasticity", "e-commerce", "affinity-lift", "agent-skills"],
+  "mcp": {
+    "supported": true,
+    "entrypoint": "mcp_server.py"
+  }
+}
